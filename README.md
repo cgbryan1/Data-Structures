@@ -1,5 +1,4 @@
 # Data Structures
-Exercises from COMP 210: Data Structures completed by Caroline Bryan at UNC Chapel Hill
 
 <br/>Assn03: Linked lists
 <br/>Assn04: BSTs
